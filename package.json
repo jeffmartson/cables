@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "git-last-commit": "1.0.1",
-        "gl-matrix": "3.1.0",
+        "gl-matrix": "3.4.4",
         "cables-shared-client": "file:../shared/client/"
     },
     "devDependencies": {
